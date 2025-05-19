@@ -4,7 +4,7 @@ This is an Android assignment to create a Profile Activity screen similar to the
 
 ## 📸 Screenshot
 
-![Profile UI Screenshot](screenshots/screenshot.png)
+![Profile UI Screenshot](screenshots/screenshot1.png)
 
 ## 📱 Tech Stack
 
